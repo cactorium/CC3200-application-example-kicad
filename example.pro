@@ -1,4 +1,4 @@
-update=Thu Aug 25 10:30:16 2016
+update=Sat Aug 27 00:19:01 2016
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../CC3200-application-example;../CC3200-application-example
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,3 +59,6 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=cc3200
+LibName31=flash8m1
+LibName32=rf_filter
+LibName33=antenna
